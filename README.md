@@ -1,7 +1,5 @@
 # Digital-Portfolio
 
-# Digital-Portfolio
-
 # Markdown-CV
 
 # Tebogo Pii
@@ -57,8 +55,8 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
 ## Reflection: Coding in Markdown
 **Situation:** As part of building our work readiness portfolio, I needed to code my professional CV using Markdown language.
 **Task:** The goal was to translate my academic history at CPUT and my technical capabilities into a clean, version-controllable, plain-text format.
-**Action:** While my day-to-day coding usually involves setting up Java and Spring Boot backends, I had to focus entirely on lightweight markup syntax for this task. The PRP37XS Subject Guide was incredibly helpful here, as it provided a comprehensive syntax breakdown. I used the guide's examples to correctly format headers for my ModuFlow and Student Residences App projects and to build structured unordered lists for my skills. 
-**Result:** I successfully built a highly readable CV entirely in Markdown. The subject guide's explanation of GitHub Flavored Markdown made the formatting process much faster, reinforcing documentation skills I will definitely use for the `README` files in my future enterprise projects.
+**Action:** For this work, I had to focus solely on lightweight markup syntax, even though my daily coding generally requires configuring Java and Spring Boot backends. The Subject Guide, which offered a thorough syntax breakdown was quite beneficial in this situation. I built organized unordered lists for my talents and correctly formatted headers for my projects using the examples in the guide.
+**Result:** I was able to create a really readable CV using only Markdown. The formatting procedure was made considerably quicker by the subject guide's introduction of GitHub Flavored Markdown, which strengthened my documentation abilities and will undoubtedly be useful for the README files in my upcoming enterprise projects.
 
 ---
 
@@ -68,16 +66,16 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
   <source src="Interview.mp4" type="video/mp4">
 </video>
 
-## Reflection: Mock Interview Video Experience
-**Situation:** To prepare for entering the professional IT industry, we needed to simulate a real-world job interview environment.
+## Reflection: Mock Interview Video
+**Situation:** To prepare for entering the professional IT industry we needed to simulate a real-world job interview environment.
 **Task:** I had to record a mock interview video demonstrating my professional communication skills and then embed it into the digital portfolio.
-**Action:** I drew on my internship experience at Tsebo ICT and my collaboration with the Sudo Squad to formulate concrete answers. The subject guide was crucial for my preparation; it clarified that the video needed to be a maximum of two minutes and filmed against a plain background. I also closely followed the guide's visual breakdown of the STAR method to structure my verbal responses. Additionally, the guide reminded me to wear physical interview attire to ensure I looked the part.
-**Result:** The recording was concise, professional, and successfully embedded into my Markdown file. Relying on the guide's examples of behavioral and technical questions greatly improved my confidence in articulating my problem-solving abilities.
+**Action:** I tried my best to develop replies using the STAR technique principles we learned in class. The subject guide was essential to my preparation because it made it clear that the video had to be shot against a plain background and last no more than two minutes. In order to organize my spoken answers, I also paid great attention to the guide's visual explanation of the STAR approach. In order to make sure I looked the part, the advisor also advised me to dress physically for the interview.
+**Result:** The recording was professional, clear, and successfully integrated into my Markdown document. My confidence in expressing my problem-solving skills significantly increased as I relied on the guide's examples of behavioral and technical questions.
 
 ---
 
 ## Reflection: The Use of GitHub Pages
 **Situation:** Once the Markdown CV and interview video were compiled, the portfolio needed to be made publicly accessible for grading.
 **Task:** I had to deploy my local repository to the web using the GitHub Pages hosting service.
-**Action:** After committing my final code, I needed to configure the deployment. I directly followed the visual, step-by-step walkthrough provided in the subject guide. The guide showed me exactly how to navigate to the repository settings, access the "Pages" section in the sidebar, and configure the build to deploy from my main branch.
-**Result:** The deployment was completely seamless, and the portfolio is now live. The step-by-step instructions in the guide removed any guesswork from the process, leaving me with a solid understanding of how to host static sites for my upcoming freelance work on the Musa Bookstore redesign.
+**Action:** I had previously worked with hosting on GitHub Pages, so the instruction served as a kind of recap of what I already knew. I had to set up the deployment after I committed my finished code. I followed the subject guide's visual, step-by-step instructions exactly. I was able to access the "Pages" portion in the sidebar, navigate to the repository settings, and set up the build to deploy from my main branch thanks to the guide.
+**Result:**The portfolio is currently operational after a flawless deployment. I had a firm grasp of how to host static sites for my next project thanks to the guide's detailed directions, which removed any uncertainty from the process.
